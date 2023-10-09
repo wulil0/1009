@@ -1,0 +1,8 @@
+,a,b,c,Result
+1,2,f34235432,4,fail
+2,3,=,5,pass
+5,2,343,8,fail
+6,2,fail1112,9,fail
+8,3,=,rwetre,pass
+9,6,=,999,pass
+10,5,4234523,8423,fail
